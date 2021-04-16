@@ -15,10 +15,10 @@ Project is created with:
 	
 ## Information
 To view 'Multi Year Stock Data' results:
-open "Stock Analysis ScreenShots"
+	open "Stock Analysis ScreenShots"
 
 To view 'Test Data"
-open 'alphabetical_testing.xlm'
+	open 'alphabetical_testing.xlm'
 
 To view script used for 'Stock Data' & 'Test Data':
-open VBA Script.bas
+	open VBA Script.bas
