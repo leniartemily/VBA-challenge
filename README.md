@@ -22,3 +22,6 @@ To view 'Test Data"
 
 To view script used for 'Stock Data' & 'Test Data':
 	open VBA Script.bas
+![Stock 2014](Stock Analysis Screenshots/Stock Analysis_2014.png)
+![Stock 2015](Stock Analysis Screenshots/Stock Analysis_2015.png)
+![Stock 2016](Stock Analysis Screenshots/Stock Analysis_2016.png)
